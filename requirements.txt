@@ -1,0 +1,7 @@
+pandas
+panel==0.13.0a40
+param
+lumen==0.5.0a46
+hvplot
+scikit-learn
+nbconvert

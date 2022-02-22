@@ -1,0 +1,1 @@
+web: lumen serve --address="0.0.0.0" --port=$PORT ikon.yaml --allow-websocket-origin=ikon-dash.herokuapp.com --dev
