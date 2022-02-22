@@ -1,1 +1,1 @@
-web: lumen serve --address="0.0.0.0" --port=$PORT test.yaml --allow-websocket-origin=ikon-dash.herokuapp.com
+web: lumen serve --address="0.0.0.0" --port=$PORT test.yaml --allow-websocket-origin=lumen-heroku-test.herokuapp.com
